@@ -1,0 +1,15 @@
+  .title {
+      background-color: white;
+    }
+    
+    .anchor {
+      margin-top: 20px;
+      margin-bottom: 20px;
+    }
+    
+    .item {
+      background: white;
+      margin-top: 20px;
+      margin-bottom: 30px;
+      padding-bottom: 30px;
+    }
